@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581397685 source:e:\考研\哈工程复试\机试\代码\b1021 个位数统计\main.cpp
+	<cstdio>
+	<string>
+	<iostream>
+
